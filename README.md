@@ -1,2 +1,2 @@
 # FTP
-Client + Server application
+Client/Server application that can send or receive files. 
